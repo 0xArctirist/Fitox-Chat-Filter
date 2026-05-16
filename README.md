@@ -1,4 +1,4 @@
-# Fitox CF - Chat Filter Plugin Made By Arctirtist
+# Fitox CF - Chat Filter Plugin
 
 A multi layer chat fitler that does not use AI to detect text.
 
