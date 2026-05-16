@@ -1,6 +1,6 @@
 # Fitox CF - Chat Filter Plugin Made By Arctirtist
 
-A multi layer chat fitler chat system that does not use AI to detect text.
+A multi layer chat fitler that does not use AI to detect text.
 
 ## 🌟 Features
 
