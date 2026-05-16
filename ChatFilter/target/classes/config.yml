@@ -1,4 +1,4 @@
 discord-webhook:
-  url: "https://discord.com/api/webhooks/1502909541346574386/amwiiTwBNMeOFU2JkP3DzFZH0NE9uNjpML7Rf-fUCPHg7jtm0V7Q3GuvhuJjGxcR_y6R" # put your webhook here
-  username: "Fitox Watcher" # username of the bot
-  avatar-url: "https://cdn.discordapp.com/attachments/1500040288209473638/1502932581744902174/image_45.png?ex=6a0a144a&is=6a08c2ca&hm=5d4de0a467c16bef571543624c01c59da8422779c06ff2f2df2029b44deae961&" # and the avatar if you want
+  url: "" # put your webhook here
+  username: "" # username of the bot
+  avatar-url: "" # and the avatar if you want
