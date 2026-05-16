@@ -1,0 +1,4 @@
+discord-webhook:
+  url: "" # put your webhook here
+  username: "" # username of the bot
+  avatar-url: "" # and the avatar if you want

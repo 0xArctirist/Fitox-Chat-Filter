@@ -1,0 +1,27 @@
+name: ChatFilter
+version: '${version}'
+
+main: fitox.filter.chatFilter.ChatFilter
+api-version: '1.21'
+load: POSTWORLD
+
+commands:
+  chatfilter:
+    description: Toggle chat filter on/off
+    usage: /cf <true|false>
+    aliases: [cf, filter]
+    permission: chatfilter.admin
+
+permissions:
+  chatfilter.use:
+    description: Use basic ChatFilter commands
+    default: true
+  chatfilter.bypass:
+    description: Bypass the chat filter
+    default: op
+  chatfilter.staff:
+    description: Receive staff alerts for violations
+    default: op
+  chatfilter.admin:
+    description: Admin commands (test, reload)
+    default: op
