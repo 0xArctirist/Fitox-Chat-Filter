@@ -137,4 +137,4 @@ No chat filter is 100% perfect. This filter provides a strong foundation for mod
 - Human moderation is still important
 ---
 
-**I'm not the best programmer since I am new to java so the code may be trash xd**
+**I'm not the best programmer since I am new to java so the code may be trash xd (Ai was used to assit with this project!!!)**
